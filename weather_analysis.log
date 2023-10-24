@@ -1,0 +1,3 @@
+INFO:root:Data imported successfully
+INFO:root:Missing values replaced with column means
+INFO:root:Analysis results have been saved to Analysis.txt

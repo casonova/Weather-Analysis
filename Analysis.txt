@@ -1,0 +1,8 @@
+Temperature Stats:
+Maximum Temperature: 35.2
+Average Temperature: 31.61818181818182
+Minimum Temperature: 27.4
+
+Humidity Difference: {'Humidty increase by': 47}
+
+Date with Highest Wind Speed: {'Date with Highest Wind Speed': Timestamp('2016-05-17 00:00:00')}
